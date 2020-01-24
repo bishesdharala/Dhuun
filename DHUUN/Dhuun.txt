@@ -1,0 +1,7 @@
+sql connect
+
+dbname=session
+table = signin
+name
+password
+
