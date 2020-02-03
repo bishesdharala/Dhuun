@@ -1,2 +1,2 @@
 # Dhuun
-1st sem project //**commercial website**//
+1st sem //**commercial**//
